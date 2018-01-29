@@ -25,10 +25,6 @@ Integrate state of the art facial detection and inverted indexing in the Spark-T
     <td>Week 3 ~ 4</td>
   </tr>
   <tr>
-    <td>Set up a Spark-Tensorflow environment. Run a trivial task to get used to the environment.</td>
-    <td>Week 3 ~ 4</td>
-  </tr>
-  <tr>
     <td>Build models</td>
     <td>Week 4 ~ 9</td>
   </tr>
